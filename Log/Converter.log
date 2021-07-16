@@ -1,0 +1,82 @@
+Jul 16, 2021 3:07:49 PM decrypt.BCPGPFileAndFolder checkConfigDecrypt
+INFO: Reading configuration file.
+Jul 16, 2021 3:07:49 PM decrypt.BCPGPFileAndFolder checkConfigDecrypt
+WARNING: Mnemonic not found
+Jul 16, 2021 3:07:50 PM decrypt.BCPGPDecrypt main
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc encrypted
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Start mapping file mnemonic
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Mapping file mnemonic done
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Starting convert file GODREJ_003600255164_20201129.txt.asc.txt.asc.txt
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 convertDecrypt
+SEVERE: Transaction date file GODREJ_003600255164_20201129.txt.asc.txt.asc.txt not same
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 convertDecrypt
+SEVERE: Failed converting file GODREJ_003600255164_20201129.txt.asc.txt.asc.txt
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 moveFile
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc moved to BACKUP
+Jul 16, 2021 3:07:50 PM decrypt.ConvertMT940 moveFileSplit
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc moved to BACKUP
+Jul 16, 2021 3:20:30 PM decrypt.BCPGPFileAndFolder checkConfigDecrypt
+INFO: Reading configuration file.
+Jul 16, 2021 3:20:30 PM decrypt.BCPGPFileAndFolder checkConfigDecrypt
+WARNING: Mnemonic not found
+Jul 16, 2021 3:20:30 PM decrypt.BCPGPDecrypt main
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc encrypted
+Jul 16, 2021 3:20:30 PM decrypt.BCPGPDecrypt main
+INFO: File KAI001_000001176908_20200722.txt.asc encrypted
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Start mapping file mnemonic
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Mapping file mnemonic done
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Starting convert file GODREJ_003600255164_20201129.txt.asc.txt.asc.txt
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 convertDecrypt
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc.txt converted
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Starting convert file KAI001_000001176908_20200722.txt.asc.txt
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 convertDecrypt
+INFO: File KAI001_000001176908_20200722.txt.asc.txt converted
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 moveFile
+INFO: File KAI001_000001176908_20200722.txt.asc moved to BACKUP
+Jul 16, 2021 3:20:30 PM decrypt.ConvertMT940 moveFileSplit
+INFO: File KAI001_000001176908_20200722.txt.asc moved to BACKUP
+Jul 16, 2021 3:24:57 PM decrypt.BCPGPFileAndFolder checkConfigDecrypt
+INFO: Reading configuration file.
+Jul 16, 2021 3:24:57 PM decrypt.BCPGPDecrypt main
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc encrypted
+Jul 16, 2021 3:24:57 PM decrypt.BCPGPDecrypt main
+INFO: File KAI001_000001176908_20200722.txt.asc encrypted
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Start mapping file mnemonic
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Mapping file mnemonic done
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Starting convert file GODREJ_003600255164_20201129.txt.asc.txt.asc.txt
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 convertDecrypt
+INFO: File GODREJ_003600255164_20201129.txt.asc.txt.asc.txt converted
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 convertDecrypt
+INFO: Starting convert file KAI001_000001176908_20200722.txt.asc.txt
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 getCurrency
+INFO: Currency found
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 convertDecrypt
+INFO: File KAI001_000001176908_20200722.txt.asc.txt converted
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 moveFile
+INFO: File KAI001_000001176908_20200722.txt.asc moved to BACKUP
+Jul 16, 2021 3:24:57 PM decrypt.ConvertMT940 moveFileSplit
+INFO: File KAI001_000001176908_20200722.txt.asc moved to BACKUP
